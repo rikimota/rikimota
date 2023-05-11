@@ -22,8 +22,6 @@
 ## About me
 
 <p>Information Systems student at Unimontes. Passionate about games and sports.</p>
-<br>
-
 <div>
     
 ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
