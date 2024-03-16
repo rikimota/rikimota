@@ -16,6 +16,7 @@
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="60">
     <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80" height="60">
+    <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" height="60"/>
 </div>
 <br><br>
 
