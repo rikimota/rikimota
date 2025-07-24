@@ -1,4 +1,4 @@
-## Bem vindo(a) ao perfil de Henrique Mota ✌️
+## Bem vindo(a) 🖥️
 
 <div>
 <img src="https://github.com/rikimota/rikimota/assets/56305251/41ced46e-1ece-4049-aa24-465dd547d7fb" height="450px" width="100%"/>
@@ -6,7 +6,9 @@
 
 ## Sobre
 
-<p><b>Information Systems</b> student at Unimontes. Passionate about <b>games</b> and <b>sports</b>.</p>
+<p>Olá! Me chamo Henrique Mota, sou estudante de Sistemas de Informação pela UNIMONTES e apaixonado por desenvolvimento web. Tenho conhecimentos em <b>PHP, MySQL, Laravel, HTML, CSS e Bootstrap</b>, além de estar sempre explorando novas tecnologias e ferramentas para evoluir como desenvolvedor.</p>
+<p>Atualmente, atuo como estagiário de suporte técnico no Instituto Estadual de Florestas (IEF), onde tenho a oportunidade de aplicar meus conhecimentos em projetos reais, contribuindo com manutenção de sistemas internos e suporte técnico.</p>
+<p>Meu foco é aprender constantemente, colaborar com soluções eficientes e construir projetos que gerem impacto positivo. Aqui no GitHub, você encontrará alguns dos meus estudos, projetos e experimentos!</p>
 
 ## Tecnologias 📖
 
